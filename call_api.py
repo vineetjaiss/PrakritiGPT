@@ -3,7 +3,7 @@ import time
 import os
 
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 messages = []
 system_msg = input("What type of Chatbot would you like to create?\n")
