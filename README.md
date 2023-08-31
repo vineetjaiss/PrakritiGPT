@@ -1,5 +1,5 @@
 # PrakritiGPT
-A Chatbot for your ayurvedic help...
+A Chatbot for your phenotype...
 
 ## Table of Contents
 
