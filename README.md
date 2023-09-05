@@ -1,5 +1,5 @@
 # PrakritiGPT
-A Chatbot for your phenotype...
+A chatbot for your ayurveda help...
 
 ## Table of Contents
 
@@ -20,6 +20,8 @@ A Chatbot for your phenotype...
 ## 1. Introduction
 
 The Prakriti-Chatbot is an advanced conversational AI designed to engage users in discussions related to phenotypes, which are observable traits determined by genetics and environmental factors. This chatbot utilizes state-of-the-art natural language processing (NLP) techniques to analyze user input, infer their phenotype-related queries, and generate informative and relevant responses.
+
+![Screenshot 2023-09-05 110901](https://github.com/vineetjaiss/PrakritiGPT/assets/118113801/23acaed4-dc4f-4219-9a97-b2ba03b1cb1b)
 
 ## 2. Features
 
